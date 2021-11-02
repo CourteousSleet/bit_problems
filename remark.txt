@@ -1,0 +1,9 @@
+Using bitwise operators is very efficient,
+because default operators such as /, * are
+working for the complexity time of O(n^2),
+% of O(n^3) and the bitwise operators are
+working for just O(n), where n is the number
+in binary representation.
+
+Solutions which use bitmasking generally
+take up exponential time and memory.
