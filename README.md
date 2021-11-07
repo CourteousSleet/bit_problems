@@ -1,0 +1,1 @@
+## Solutions for some bit problems from binarysearch.com
